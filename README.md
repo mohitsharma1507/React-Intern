@@ -7,7 +7,7 @@ A React.js project that displays a collection of beers in a card-style UI using 
 4.Styled UI with Bootstrap.
 ##  Installation & Setup
 ->Clone the repository
-  -git clone https://github.com/your-username/beers-dashboard.git
+  -git clone https://github.com/mohitsharma1507/React-Intern.git
   -cd beers-dashboard
 -> Install dependencies
    -npm install
